@@ -1,0 +1,14 @@
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program8\bin\Debug\net9.0\program8.exe
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program8\bin\Debug\net9.0\program8.deps.json
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program8\bin\Debug\net9.0\program8.runtimeconfig.json
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program8\bin\Debug\net9.0\program8.dll
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program8\bin\Debug\net9.0\program8.pdb
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program8\obj\Debug\net9.0\program8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program8\obj\Debug\net9.0\program8.AssemblyInfoInputs.cache
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program8\obj\Debug\net9.0\program8.AssemblyInfo.cs
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program8\obj\Debug\net9.0\program8.csproj.CoreCompileInputs.cache
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program8\obj\Debug\net9.0\program8.dll
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program8\obj\Debug\net9.0\refint\program8.dll
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program8\obj\Debug\net9.0\program8.pdb
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program8\obj\Debug\net9.0\program8.genruntimeconfig.cache
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program8\obj\Debug\net9.0\ref\program8.dll

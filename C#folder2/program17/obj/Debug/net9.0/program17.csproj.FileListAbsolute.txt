@@ -1,0 +1,14 @@
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program17\obj\Debug\net9.0\program17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program17\obj\Debug\net9.0\program17.AssemblyInfoInputs.cache
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program17\obj\Debug\net9.0\program17.AssemblyInfo.cs
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program17\obj\Debug\net9.0\program17.csproj.CoreCompileInputs.cache
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program17\bin\Debug\net9.0\program17.exe
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program17\bin\Debug\net9.0\program17.deps.json
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program17\bin\Debug\net9.0\program17.runtimeconfig.json
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program17\bin\Debug\net9.0\program17.dll
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program17\bin\Debug\net9.0\program17.pdb
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program17\obj\Debug\net9.0\program17.dll
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program17\obj\Debug\net9.0\refint\program17.dll
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program17\obj\Debug\net9.0\program17.pdb
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program17\obj\Debug\net9.0\program17.genruntimeconfig.cache
+C:\Users\waseem\OneDrive\Desktop\C#folder2\program17\obj\Debug\net9.0\ref\program17.dll
