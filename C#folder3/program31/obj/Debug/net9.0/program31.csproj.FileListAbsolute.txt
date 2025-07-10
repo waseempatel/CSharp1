@@ -1,0 +1,15 @@
+C:\Users\waseem\OneDrive\Desktop\C#folder\C#folder3\program31\bin\Debug\net9.0\program31.exe
+C:\Users\waseem\OneDrive\Desktop\C#folder\C#folder3\program31\bin\Debug\net9.0\program31.deps.json
+C:\Users\waseem\OneDrive\Desktop\C#folder\C#folder3\program31\bin\Debug\net9.0\program31.runtimeconfig.json
+C:\Users\waseem\OneDrive\Desktop\C#folder\C#folder3\program31\bin\Debug\net9.0\program31.dll
+C:\Users\waseem\OneDrive\Desktop\C#folder\C#folder3\program31\bin\Debug\net9.0\program31.pdb
+C:\Users\waseem\OneDrive\Desktop\C#folder\C#folder3\program31\obj\Debug\net9.0\program31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waseem\OneDrive\Desktop\C#folder\C#folder3\program31\obj\Debug\net9.0\program31.AssemblyInfoInputs.cache
+C:\Users\waseem\OneDrive\Desktop\C#folder\C#folder3\program31\obj\Debug\net9.0\program31.AssemblyInfo.cs
+C:\Users\waseem\OneDrive\Desktop\C#folder\C#folder3\program31\obj\Debug\net9.0\program31.csproj.CoreCompileInputs.cache
+C:\Users\waseem\OneDrive\Desktop\C#folder\C#folder3\program31\obj\Debug\net9.0\program31.sourcelink.json
+C:\Users\waseem\OneDrive\Desktop\C#folder\C#folder3\program31\obj\Debug\net9.0\program31.dll
+C:\Users\waseem\OneDrive\Desktop\C#folder\C#folder3\program31\obj\Debug\net9.0\refint\program31.dll
+C:\Users\waseem\OneDrive\Desktop\C#folder\C#folder3\program31\obj\Debug\net9.0\program31.pdb
+C:\Users\waseem\OneDrive\Desktop\C#folder\C#folder3\program31\obj\Debug\net9.0\program31.genruntimeconfig.cache
+C:\Users\waseem\OneDrive\Desktop\C#folder\C#folder3\program31\obj\Debug\net9.0\ref\program31.dll
